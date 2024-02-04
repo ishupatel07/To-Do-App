@@ -1,2 +1,2 @@
 # To-Do-App
-AUuthor - Ishwar Patel
+Author - Ishwar Patel
